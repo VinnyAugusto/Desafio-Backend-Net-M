@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Desafio/Desafio.Api/bin/Debug/net8.0
+/Desafio/Desafio.Api/obj/Debug/net8.0
+/Desafio/Desafio.Application/bin/Debug/net8.0
+/Desafio/Desafio.Application/obj/Debug/net8.0
+/Desafio/Desafio.Core/bin/Debug/net8.0
+/Desafio/Desafio.Core/obj/Debug/net8.0
+/Desafio/Desafio.Infrastructure/bin/Debug/net8.0
+/Desafio/Desafio.Infrastructure/obj/Debug/net8.0
+/Desafio/Desafio.Test/bin/Debug/net8.0
+/Desafio/Desafio.Test/obj/Debug/net8.0
